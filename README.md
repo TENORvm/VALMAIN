@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/90714523/232756084-6be6456a-3154-4e8b-b789-458c69ffa12a.png)
 
-- **Use this software or not is up to you, if you are not afraid to be caught by anitchit then you are welcome, but if you are afraid of losing your account I do not recommend you to use it.
+- **Use this software or not is up to you, if you are not afraid to be caught by anti-cheat system then you are welcome, but if you are afraid of losing your account I do not recommend you to use it.
 Write to riot support to allow the use of this software.**
 
 
